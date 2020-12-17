@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Data Structures and algorthims, mastering React & React Hooks, and a site for The Popcast podcast hosted by Dan POP!
 
-- 📫 How to reach me: jordanleelong5@gmail.com | www.jordanleelong.com | https://www.linkedin.com/in/jordan-long21/ | @webdevjordan
+- 📫 How to reach me: jordanleelong5@gmail.com | www.jordanleelong.com | https://www.linkedin.com/in/jordan-long21/ | https://twitter.com/WebDevJordan
  
 
 
