@@ -7,6 +7,12 @@
 ![Jordan's Github Stats](https://github-readme-stats.vercel.app/api?username=JordanLong1&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanLong1&layout=compact&theme=blue-green)
 
+
+- 🔭 I’m currently working on Data Structures and algorthims, mastering React & React Hooks, and a site for The Popcast podcast hosted by Dan POP!
+
+- 📫 How to reach me: jordanleelong5@gmail.com 
+
+
 <!--
 **JordanLong1/JordanLong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
