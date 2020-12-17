@@ -1,5 +1,5 @@
 <h4>Hi there 👋 </h4>
-<h4 align='center'><img src='/secret/patrick.gif' width='70px'/></h4> 
+<h4 align='left'><img src='/secret/patrick.gif' width='80px'/></h4> 
 <h4 align='center'>“𝙏𝙝𝙚 𝙁𝙪𝙩𝙪𝙧𝙚 𝘽𝙚𝙡𝙤𝙣𝙜𝙨 𝙏𝙤 𝙏𝙝𝙚 𝘾𝙤𝙢𝙥𝙚𝙩𝙚𝙣𝙩. 𝙂𝙚𝙩 𝙂𝙤𝙤𝙙, 𝙂𝙚𝙩 𝘽𝙚𝙩𝙩𝙚𝙧, 𝘽𝙚 𝙏𝙝𝙚 𝘽𝙚𝙨𝙩!” – 𝘽𝙧𝙞𝙖𝙣 𝙏𝙧𝙖𝙘𝙮</h4>
 
 ![](https://komarev.com/ghpvc/?username=JordanLong1&color=brightgreen)
@@ -10,7 +10,8 @@
 
 - 🔭 I’m currently working on Data Structures and algorthims, mastering React & React Hooks, and a site for The Popcast podcast hosted by Dan POP!
 
-- 📫 How to reach me: jordanleelong5@gmail.com 
+- 📫 How to reach me: jordanleelong5@gmail.com | www.jordanleelong.com | https://www.linkedin.com/in/jordan-long21/ | @webdevjordan
+ 
 
 
 <!--
