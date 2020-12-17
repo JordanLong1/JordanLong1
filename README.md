@@ -8,7 +8,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanLong1&layout=compact&theme=blue-green)
 
 
-- 🔭 I’m currently working on Data Structures and algorthims, mastering React & React Hooks, and a site for The Popcast podcast hosted by Dan POP!
+- 🔭 I’m currently working on a site for The Popcast podcast hosted by Dan POP!
+
+- 🌱 I’m currently learning Data Structures and algorithms, mastering React and always brushing up on my JavaScript fundamentals
+
+- 👯 I’m looking to collaborate on React projects!
 
 - 📫 How to reach me: jordanleelong5@gmail.com | www.jordanleelong.com | https://www.linkedin.com/in/jordan-long21/ | https://twitter.com/WebDevJordan
  
